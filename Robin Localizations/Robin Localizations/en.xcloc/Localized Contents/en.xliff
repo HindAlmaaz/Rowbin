@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Robin/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="(Develop yourself and grow your mind....)" xml:space="preserve">
+        <source>(Develop yourself and grow your mind....)</source>
+        <target>(Develop yourself and grow your mind....)</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Adobe Illustrator CC and Dimension CC. For beginners + more." xml:space="preserve">
+        <source>Adobe Illustrator CC and Dimension CC. For beginners + more.</source>
+        <target>Adobe Illustrator CC and Dimension CC. For beginners + more.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Become a Data Engineer" xml:space="preserve">
+        <source>Become a Data Engineer</source>
+        <target>Become a Data Engineer</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Black Hat MEA" xml:space="preserve">
+        <source>Black Hat MEA</source>
+        <target>Black Hat MEA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Categories" xml:space="preserve">
+        <source>Categories</source>
+        <target>Categories</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Courses" xml:space="preserve">
+        <source>Courses</source>
+        <target>Courses</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cybersecurity Fundamentals" xml:space="preserve">
+        <source>Cybersecurity Fundamentals</source>
+        <target>Cybersecurity Fundamentals</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Data Engineering is the foundation for the new world of Big Data." xml:space="preserve">
+        <source>Data Engineering is the foundation for the new world of Big Data.</source>
+        <target>Data Engineering is the foundation for the new world of Big Data.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Design" xml:space="preserve">
+        <source>Design</source>
+        <target>Design</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Details:" xml:space="preserve">
+        <source>Details:</source>
+        <target>Details:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Electronic Questionnaire Designs" xml:space="preserve">
+        <source>Electronic Questionnaire Designs</source>
+        <target>Electronic Questionnaire Designs</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enroll now to build production-ready data infrastructure, an" xml:space="preserve">
+        <source>Enroll now to build production-ready data infrastructure, an</source>
+        <target>Enroll now to build production-ready data infrastructure, an</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Event" xml:space="preserve">
+        <source>Event</source>
+        <target>Event</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Events" xml:space="preserve">
+        <source>Events</source>
+        <target>Events</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Expo 2023" xml:space="preserve">
+        <source>Expo 2023</source>
+        <target>Expo 2023</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Fields" xml:space="preserve">
+        <source>Fields</source>
+        <target>Fields</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Home" xml:space="preserve">
+        <source>Home</source>
+        <target>Home</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="IT" xml:space="preserve">
+        <source>IT</source>
+        <target>IT</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Imam Abdulrahman Bin Faisal University" xml:space="preserve">
+        <source>Imam Abdulrahman Bin Faisal University</source>
+        <target>Imam Abdulrahman Bin Faisal University</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="July 1 - July 26" xml:space="preserve">
+        <source>July 1 - July 26</source>
+        <target>July 1 - July 26</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Learn Logo Design and Illustrator" xml:space="preserve">
+        <source>Learn Logo Design and Illustrator</source>
+        <target>Learn Logo Design and Illustrator</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Learn logo design by applying principles and techniques in" xml:space="preserve">
+        <source>Learn logo design by applying principles and techniques in</source>
+        <target>Learn logo design by applying principles and techniques in</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Logo Design Masterclass:" xml:space="preserve">
+        <source>Logo Design Masterclass:</source>
+        <target>Logo Design Masterclass:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Media" xml:space="preserve">
+        <source>Media</source>
+        <target>Media</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Morning: 9am - 1pm / Afternoon: 2pm - 6pm" xml:space="preserve">
+        <source>Morning: 9am - 1pm / Afternoon: 2pm - 6pm</source>
+        <target>Morning: 9am - 1pm / Afternoon: 2pm - 6pm</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Most recent" xml:space="preserve">
+        <source>Most recent</source>
+        <target>Most recent</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="National Cybersecurity Authority" xml:space="preserve">
+        <source>National Cybersecurity Authority</source>
+        <target>National Cybersecurity Authority</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Online at udemy " xml:space="preserve">
+        <source>Online at udemy </source>
+        <target>Online at udemy </target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Presented within the initiative" xml:space="preserve">
+        <source>Presented within the initiative</source>
+        <target>Presented within the initiative</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Presented within the initiative (Develop yourself and grow your mind....)" xml:space="preserve">
+        <source>Presented within the initiative (Develop yourself and grow your mind....)</source>
+        <target>Presented within the initiative (Develop yourself and grow your mind....)</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Princess Nourah Bint Abdul Rahman University" xml:space="preserve">
+        <source>Princess Nourah Bint Abdul Rahman University</source>
+        <target>Princess Nourah Bint Abdul Rahman University</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reset" xml:space="preserve">
+        <source>Reset</source>
+        <target>Reset</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Riyadh International Convention &amp; Exhibition Center" xml:space="preserve">
+        <source>Riyadh International Convention &amp; Exhibition Center</source>
+        <target>Riyadh International Convention &amp; Exhibition Center</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Saudi Entertainment and Amusement" xml:space="preserve">
+        <source>Saudi Entertainment and Amusement</source>
+        <target>Saudi Entertainment and Amusement</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Saudi Entertainment and Amusement Expo 2023 is the Kingdom's" xml:space="preserve">
+        <source>Saudi Entertainment and Amusement Expo 2023 is the Kingdom's</source>
+        <target>Saudi Entertainment and Amusement Expo 2023 is the Kingdom's</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search..." xml:space="preserve">
+        <source>Search...</source>
+        <target>Search...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The Global Cybersecurity Forum will bring together international" xml:space="preserve">
+        <source>The Global Cybersecurity Forum will bring together international</source>
+        <target>The Global Cybersecurity Forum will bring together international</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The international cybersecurity forum will bring together experts and decision makers to inspire , approach and make decisions about new perspectives." xml:space="preserve">
+        <source>The international cybersecurity forum will bring together experts and decision makers to inspire , approach and make decisions about new perspectives.</source>
+        <target>The international cybersecurity forum will bring together experts and decision makers to inspire , approach and make decisions about new perspectives.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Udacity" xml:space="preserve">
+        <source>Udacity</source>
+        <target>Udacity</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Visit website" xml:space="preserve">
+        <source>Visit website</source>
+        <target>Visit website</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Where the biggest global IT companies and the best minds come" xml:space="preserve">
+        <source>Where the biggest global IT companies and the best minds come</source>
+        <target>Where the biggest global IT companies and the best minds come</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Workshop" xml:space="preserve">
+        <source>Workshop</source>
+        <target>Workshop</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Workshops" xml:space="preserve">
+        <source>Workshops</source>
+        <target>Workshops</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="approaches, and action, whilst charting a path forward for those" xml:space="preserve">
+        <source>approaches, and action, whilst charting a path forward for those</source>
+        <target>approaches, and action, whilst charting a path forward for those</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="decision makers and experts to inspire new perspectives," xml:space="preserve">
+        <source>decision makers and experts to inspire new perspectives,</source>
+        <target>decision makers and experts to inspire new perspectives,</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="essential skill for advancing your data career." xml:space="preserve">
+        <source>essential skill for advancing your data career.</source>
+        <target>essential skill for advancing your data career.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="first-ever trade event dedicated to the..." xml:space="preserve">
+        <source>first-ever trade event dedicated to the...</source>
+        <target>first-ever trade event dedicated to the...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="full of activities and events, where enthusiasm ..." xml:space="preserve">
+        <source>full of activities and events, where enthusiasm ...</source>
+        <target>full of activities and events, where enthusiasm ...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="informatech &amp; SAFCSP" xml:space="preserve">
+        <source>informatech &amp; SAFCSP</source>
+        <target>informatech &amp; SAFCSP</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="most vulnerable in Cyberspace." xml:space="preserve">
+        <source>most vulnerable in Cyberspace.</source>
+        <target>most vulnerable in Cyberspace.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="together in the field of information security, Black Hat's agenda is" xml:space="preserve">
+        <source>together in the field of information security, Black Hat's agenda is</source>
+        <target>together in the field of information security, Black Hat's agenda is</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Robin/en.lproj/Robin-InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Robin</source>
+        <target>Robin</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
